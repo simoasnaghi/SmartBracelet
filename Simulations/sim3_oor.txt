@@ -1,0 +1,86 @@
+00:04.320	ID:2	Child: radio booted.
+00:04.324	ID:2	Child: radio is ready.
+00:04.433	ID:4	Child: radio booted.
+00:04.436	ID:4	Child: radio is ready.
+00:04.467	ID:1	Parent: radio booted.
+00:04.470	ID:1	Parent: radio is ready.
+00:04.617	ID:2	Child: Pairing timer fired.
+00:04.620	ID:2	Child: pairing message sent.
+00:04.632	ID:1	Parent: sending stop pairing message.
+00:04.640	ID:1	Parent: message acked.
+00:04.640	ID:2	Child: pairing timer stopped.
+00:04.730	ID:4	Child: Pairing timer fired.
+00:04.732	ID:4	Child: pairing message sent.
+00:04.763	ID:1	Parent: Pairing timer fired.
+00:04.766	ID:1	Parent: pairing message sent.
+00:04.776	ID:2	Child: sending stop pairing message.
+00:04.779	ID:2	Child: start operation mode.
+00:04.780	ID:1	Parent: pairing timer stopped.
+00:04.781	ID:1	Parent: message acked.
+00:04.984	ID:3	Parent: radio booted.
+00:04.987	ID:3	Parent: radio is ready.
+00:05.022	ID:4	Child: Pairing timer fired.
+00:05.025	ID:4	Child: pairing message sent.
+00:05.040	ID:3	Parent: sending stop pairing message.
+00:05.048	ID:3	Parent: message acked.
+00:05.048	ID:4	Child: pairing timer stopped.
+00:05.281	ID:3	Parent: Pairing timer fired.
+00:05.283	ID:3	Parent: pairing message sent.
+00:05.296	ID:4	Child: sending stop pairing message.
+00:05.300	ID:3	Parent: message acked.
+00:05.304	ID:4	Child: start operation mode.
+00:05.304	ID:3	Parent: pairing timer stopped.
+00:14.548	ID:2	Child radio: message sent.
+00:14.554	ID:2	Child: operation message acked.
+00:14.556	ID:1	Parent: CHILD is RUNNING. Position X: 334, Y: 854.
+00:15.072	ID:4	Child radio: message sent.
+00:15.086	ID:4	Child: operation message acked.
+00:15.088	ID:3	Parent: CHILD is STANDING. Position X: 246, Y: 880.
+00:24.314	ID:2	Child radio: message sent.
+00:24.324	ID:2	Child: operation message acked.
+00:24.326	ID:1	Parent: CHILD is WALKING. Position X: 669, Y: 263.
+00:24.838	ID:4	Child radio: message sent.
+00:24.851	ID:4	Child: parent device outside range.
+00:34.079	ID:2	Child radio: message sent.
+00:34.092	ID:2	Child: operation message acked.
+00:34.094	ID:1	Parent: CHILD is WALKING. Position X: 290, Y: 232.
+00:34.604	ID:4	Child radio: message sent.
+00:34.614	ID:4	Child: operation message acked.
+00:34.615	ID:3	Parent: CHILD is RUNNING. Position X: 721, Y: 287.
+00:43.845	ID:2	Child radio: message sent.
+00:43.851	ID:2	Child: operation message acked.
+00:43.853	ID:1	Parent: CHILD is RUNNING. Position X: 412, Y: 804.
+00:44.369	ID:4	Child radio: message sent.
+00:44.384	ID:4	Child: parent device outside range.
+00:53.610	ID:2	Child radio: message sent.
+00:53.621	ID:2	Child: operation message acked.
+00:53.623	ID:1	Parent: CHILD is WALKING. Position X: 260, Y: 435.
+00:54.135	ID:4	Child radio: message sent.
+00:54.148	ID:4	Child: parent device outside range.
+01:03.376	ID:2	Child radio: message sent.
+01:03.387	ID:2	Child: operation message acked.
+01:03.388	ID:1	Parent: CHILD is STANDING. Position X: 192, Y: 628.
+01:03.900	ID:4	Child radio: message sent.
+01:03.916	ID:4	Child: parent device outside range.
+01:13.142	ID:2	Child radio: message sent.
+01:13.152	ID:2	Child: operation message acked.
+01:13.154	ID:1	Parent: CHILD is STANDING. Position X: 628, Y: 239.
+01:13.666	ID:4	Child radio: message sent.
+01:13.686	ID:4	Child: parent device outside range.
+01:22.907	ID:2	Child radio: message sent.
+01:22.913	ID:2	Child: operation message acked.
+01:22.915	ID:1	Parent: CHILD is STANDING. Position X: 601, Y: 725.
+01:23.432	ID:4	Child radio: message sent.
+01:23.449	ID:4	Child: parent device outside range.
+01:32.673	ID:2	Child radio: message sent.
+01:32.680	ID:2	Child: operation message acked.
+01:32.681	ID:2	Child: radio stopped.
+01:32.682	ID:1	ALERT: CHILD is FALLING. Position X: 275, Y: 39.
+01:32.683	ID:1	Parent: radio stopped.
+01:33.197	ID:4	Child radio: message sent.
+01:33.213	ID:4	Child: parent device outside range.
+01:33.214	ID:3	MISSING --> Child is outside range for more than one minute. Last known position: 721,287.
+01:33.215	ID:3	Parent: radio stopped.
+01:42.963	ID:4	Child radio: message sent.
+01:42.981	ID:4	Child: parent device outside range.
+01:42.982	ID:4	Child: radio stopped.
